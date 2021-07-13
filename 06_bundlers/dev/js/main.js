@@ -1,0 +1,3 @@
+const obj = {};
+const prop = obj?.prop;
+//# sourceMappingURL=data:application/json;charset=utf8;base64,eyJ2ZXJzaW9uIjozLCJuYW1lcyI6W10sIm1hcHBpbmdzIjoiIiwic291cmNlcyI6WyJtYWluLmpzIl0sInNvdXJjZXNDb250ZW50IjpbImNvbnN0IG9iaiA9IHt9O1xyXG5jb25zdCBwcm9wID0gb2JqPy5wcm9wOyJdLCJmaWxlIjoibWFpbi5qcyJ9
